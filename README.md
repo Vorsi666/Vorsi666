@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=220&section=header&text=VORSI666&fontSize=54&fontColor=c0c0c0&stroke=c0c0c0&strokeWidth=0.5&animation=fadeIn&desc=%E2%80%A0%20CYBERSIGILISM%20ARCHIVE%20%E2%80%A0%20FORGED%20IN%20CODE%20%E2%80%A0&descAlignY=62&descAlign=50" />
+![VORSI666 — CYBERSIGILISM ARCHIVE](./assets/banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&pause=1500&center=true&vCenter=true&width=700&height=60&color=c0c0c0&lines=%E2%80%A0+FULLSTACK+AI+ARCHITECT+%E2%80%A0;SYSTEMS+THAT+THINK+%E2%80%A2+CODE+THAT+CUTS;NEO-TRIBAL+%E2%80%A2+CHROME+%E2%80%A2+VOID" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=17&pause=1500&center=true&vCenter=true&width=720&height=50&color=c0c0c0&lines=%E2%80%A0+FULLSTACK+AI+ARCHITECT+%E2%80%A0;SYSTEMS+THAT+THINK+%E2%80%A2+CODE+THAT+CUTS;NEO-TRIBAL+%E2%80%A2+CHROME+%E2%80%A2+VOID" alt="Typing" />
 </p>
 
 <p align="center">
@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/ARCHETYPE-FULLSTACK_AI-1a1a1a?style=flat-square&logo=openaigym&logoColor=c0c0c0&labelColor=000000" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%86_%E2%97%86_%E2%97%86-0a0a0a?style=flat-square&labelColor=000000&color=000000" />
-</p>
+<p align="center"><sub>† ─────────────── ◊ ─────────────── †</sub></p>
 
 ---
 
@@ -40,7 +38,7 @@ const entity = {
 
 ---
 
-### ◊ ARSENAL / TECH STACK
+### ◊ ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite&theme=dark" />
@@ -66,7 +64,7 @@ const entity = {
 
 ---
 
-### † SIGNAL / GITHUB STATS
+### † SIGNAL / GHOST IN THE SYSTEM
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vorsi666&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=c0c0c0&icon_color=808080&text_color=8a8a8a&border_color=1a1a1a" />
@@ -128,9 +126,9 @@ const entity = {
   <a href="https://instagram.com/Vorsi666"><img src="https://img.shields.io/badge/Instagram-@Vorsi666-000000?style=for-the-badge&logo=instagram&logoColor=c0c0c0&labelColor=0a0a0a" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer&text=%E2%80%A0%20SHARP%20AS%20THORNS%20%E2%80%A0%20COLD%20AS%20CHROME%20%E2%80%A0&fontSize=13&fontColor=c0c0c0&animation=fadeIn" />
-</p>
+<p align="center"><sub>† ─────────────── ◊ ─────────────── †</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer&text=%E2%80%A0%20SHARP%20AS%20THORNS%20%E2%80%A0%20COLD%20AS%20CHROME%20%E2%80%A0&fontSize=12&fontColor=c0c0c0&animation=fadeIn" />
 
 <p align="center">
   <sub>† VORSI666 — CYBERSIGILISM ARCHIVE — EST. IN THE VOID †</sub>
