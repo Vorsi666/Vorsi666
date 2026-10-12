@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vorsi666/Vorsi666/main/banner.svg" width="100%" alt="Vorsi666 Banner"/>
+  <img src="https://pin.it/5fdMl9hMh" width="100%" alt="Vorsi666 Banner"/>
 </p>
 
 <p align="center">
