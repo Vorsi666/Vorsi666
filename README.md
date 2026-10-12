@@ -1,7 +1,19 @@
+<!-- ═══════ ANIMATED BANNER ═══════ -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/5d/d1/72/5dd172642022af801193208bebc60d25.jpg" width="100%" alt="Vorsi666 Banner"/>
 </p>
 
+<!-- ═══════ ANIMATED TITLE ═══════ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=VORSI666;Developer;Building+in+silence..." alt="Typing SVG" />
+</h1>
+
+<!-- ═══════ ANIMATED WAVE ═══════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=80&section=header&animation=twinkling" width="100%"/>
+</p>
+
+<!-- ═══════ SOSIAL MEDIA ═══════ -->
 <p align="center">
   <a href="https://github.com/Vorsi666">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,16 +34,28 @@
 
 <br/>
 
-<h2 align="center">⌖ ABOUT</h2>
+<!-- ═══════ ABOUT ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%8C%96+ABOUT" alt="About"/>
+</h2>
 
 <p align="center">
   <i>"The void speaks in code."</i>
 </p>
 
+<pre align="center">
+name    : Vorsi666
+role    : Developer
+focus   : [ Web, Systems, Open Source ]
+status  : ⚡ Building in silence...
+</pre>
 
 <br/>
 
-<h2 align="center">⛧ LANGUAGES</h2>
+<!-- ═══════ LANGUAGES ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9B%A7+LANGUAGES" alt="Languages"/>
+</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/white" height="48" alt="Python" />
@@ -52,7 +76,10 @@
 
 <br/>
 
-<h2 align="center">⛧ FRAMEWORKS & LIBRARIES</h2>
+<!-- ═══════ FRAMEWORKS ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%9B%A7+FRAMEWORKS" alt="Frameworks"/>
+</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/react/white" height="48" alt="React" />
@@ -70,7 +97,10 @@
 
 <br/>
 
-<h2 align="center">⛧ DATABASE</h2>
+<!-- ═══════ DATABASE ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9B%A7+DATABASE" alt="Database"/>
+</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/mysql/white" height="48" alt="MySQL" />
@@ -83,7 +113,10 @@
 
 <br/>
 
-<h2 align="center">⛧ TOOLS & ENVIRONMENT</h2>
+<!-- ═══════ TOOLS ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%9B%A7+TOOLS+%26+ENVIRONMENT" alt="Tools"/>
+</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/git/white" height="48" alt="Git" />
@@ -101,7 +134,10 @@
 
 <br/>
 
-<h2 align="center">⛧ STATS</h2>
+<!-- ═══════ STATS ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9B%A7+STATS" alt="Stats"/>
+</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vorsi666&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=1a1a1a" />
@@ -113,12 +149,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vorsi666&bg_color=0d0d0d&color=ffffff&line=1a1a1a&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vorsi666&bg_color=0d0d0d&color=ffffff&line=1a1a1a&point=ffffff&area=true&hide_border=true&animation=pulse" width="100%" />
 </p>
 
 <br/>
 
-<h2 align="center">⛧ CONTACT</h2>
+<!-- ═══════ SNAKE ANIMATION ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%9B%A7+CONTRIBUTIONS" alt="Contributions"/>
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vorsi666/Vorsi666/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+</p>
+
+<br/>
+
+<!-- ═══════ CONTACT ═══════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9B%A7+CONTACT" alt="Contact"/>
+</h2>
 
 <p align="center">
   <a href="https://github.com/Vorsi666">
@@ -134,10 +184,11 @@
 
 <br/>
 
+<!-- ═══════ ANIMATED FOOTER ═══════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <sub><i>⚝ crafted in darkness ⚝</i></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=400&lines=%E2%9A%9D+crafted+in+darkness+%E2%9A%9D" alt="Footer"/>
 </p>
