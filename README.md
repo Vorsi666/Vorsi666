@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/5fdMl9hMh" width="100%" alt="Vorsi666 Banner"/>
+  <img src="https://i.pinimg.com/736x/5d/d1/72/5dd172642022af801193208bebc60d25.jpg" width="100%" alt="Vorsi666 Banner"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,20 @@ status  : ⚡ Building in silence...
 <h2 align="center">⛧ LANGUAGES</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,java,c,cpp,cs,php,ruby,swift,kotlin,dart,lua,bash,html,css,sass&theme=dark&perline=10" />
+  <img src="https://cdn.simpleicons.org/python/white" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/javascript/white" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/white" height="48" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/java/white" height="48" alt="Java" />
+  <img src="https://cdn.simpleicons.org/c/white" height="48" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/white" height="48" alt="C++" />
+  <img src="https://cdn.simpleicons.org/csharp/white" height="48" alt="C#" />
+  <img src="https://cdn.simpleicons.org/go/white" height="48" alt="Go" />
+  <img src="https://cdn.simpleicons.org/rust/white" height="48" alt="Rust" />
+  <img src="https://cdn.simpleicons.org/php/white" height="48" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/ruby/white" height="48" alt="Ruby" />
+  <img src="https://cdn.simpleicons.org/swift/white" height="48" alt="Swift" />
+  <img src="https://cdn.simpleicons.org/kotlin/white" height="48" alt="Kotlin" />
+  <img src="https://cdn.simpleicons.org/gnubash/white" height="48" alt="Shell" />
 </p>
 
 <br/>
@@ -48,7 +61,17 @@ status  : ⚡ Building in silence...
 <h2 align="center">⛧ FRAMEWORKS & LIBRARIES</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,angular,nodejs,express,nestjs,django,flask,fastapi,laravel,spring,tailwind,bootstrap,vite&theme=dark&perline=10" />
+  <img src="https://cdn.simpleicons.org/react/white" height="48" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="48" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/white" height="48" alt="Vue.js" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" height="48" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/white" height="48" alt="Express" />
+  <img src="https://cdn.simpleicons.org/django/white" height="48" alt="Django" />
+  <img src="https://cdn.simpleicons.org/flask/white" height="48" alt="Flask" />
+  <img src="https://cdn.simpleicons.org/laravel/white" height="48" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/spring/white" height="48" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/white" height="48" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/vite/white" height="48" alt="Vite" />
 </p>
 
 <br/>
@@ -56,7 +79,12 @@ status  : ⚡ Building in silence...
 <h2 align="center">⛧ DATABASE</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma&theme=dark&perline=10" />
+  <img src="https://cdn.simpleicons.org/mysql/white" height="48" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/white" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/white" height="48" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/redis/white" height="48" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/sqlite/white" height="48" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/firebase/white" height="48" alt="Firebase" />
 </p>
 
 <br/>
@@ -64,7 +92,17 @@ status  : ⚡ Building in silence...
 <h2 align="center">⛧ TOOLS & ENVIRONMENT</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,ubuntu,arch,nginx,vscode,neovim,figma,postman,vercel,netlify&theme=dark&perline=10" />
+  <img src="https://cdn.simpleicons.org/git/white" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/docker/white" height="48" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes/white" height="48" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/linux/white" height="48" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/nginx/white" height="48" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white" height="48" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/neovim/white" height="48" alt="Neovim" />
+  <img src="https://cdn.simpleicons.org/figma/white" height="48" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/postman/white" height="48" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/vercel/white" height="48" alt="Vercel" />
 </p>
 
 <br/>
