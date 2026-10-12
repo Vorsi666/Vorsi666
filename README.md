@@ -28,12 +28,6 @@
   <i>"The void speaks in code."</i>
 </p>
 
-<pre align="center">
-name    : Vorsi666
-role    : Developer
-focus   : [ Web, Systems, Open Source ]
-status  : ⚡ Building in silence...
-</pre>
 
 <br/>
 
