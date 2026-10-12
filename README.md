@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vorsi666/Vorsi666/main/banner.svg" width="100%" alt="Vorsi666 Banner"/>
 </p>
@@ -29,12 +28,12 @@
   <i>"The void speaks in code."</i>
 </p>
 
-```yaml
+<pre align="center">
 name    : Vorsi666
 role    : Developer
 focus   : [ Web, Systems, Open Source ]
 status  : ⚡ Building in silence...
-```
+</pre>
 
 <br/>
 
